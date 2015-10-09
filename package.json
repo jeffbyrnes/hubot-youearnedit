@@ -1,0 +1,24 @@
+{
+  "name": "hubot-youearnedit",
+  "version": "1.0.0",
+  "description": "A Hubot script to interact with the YouEarnedIt API",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffbyrnes/hubot-youearnedit.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "youearnedit"
+  ],
+  "author": "Jeff Byrnes <thejeffbyrnes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffbyrnes/hubot-youearnedit/issues"
+  },
+  "homepage": "https://github.com/jeffbyrnes/hubot-youearnedit#readme"
+}
