@@ -1,5 +1,7 @@
 # hubot-youearnedit
 
+[![Build Status](http://img.shields.io/travis/jeffbyrnes/hubot-youearnedit.svg)](https://travis-ci.org/jeffbyrnes/hubot-youearnedit)
+
 A Hubot script to interact with the YouEarnedIt API from a Slack organization.
 
 It should be noted that, as of 2015-10-15, the v1 API that this utilizes 
