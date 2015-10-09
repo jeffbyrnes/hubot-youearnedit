@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jeffbyrnes/hubot-youearnedit/issues"
   },
-  "homepage": "https://github.com/jeffbyrnes/hubot-youearnedit#readme"
+  "homepage": "https://github.com/jeffbyrnes/hubot-youearnedit#readme",
+  "dependencies": {
+    "coffee-script": "~1.6"
+  }
 }
